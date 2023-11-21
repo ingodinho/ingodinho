@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ingodinho aka Ingo
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning Angular, Typescript, RxJS and Node.js with Express.js
+- 🌱 I’m currently learning React, Next.Js, Typescript, and Node.js with Express.js
 - 💞️ I’m looking to collaborate on any project, that helps me learning.
 - 📫 How to reach me -> siemens.ingo@gmail.com
 
